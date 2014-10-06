@@ -12,6 +12,7 @@ AutoReqProv:    no
 Requires:       go >= %{version}
 
 %define __spec_install_post %{nil}
+%define debug_package %{nil}
 
 %define tooldir %{_libdir}/go/pkg/tool/linux_amd64
 
