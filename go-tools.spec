@@ -1,6 +1,6 @@
 Name:           go-tools
-Version:        1.3
-Release:        4%{?dist}
+Version:        1.4.1
+Release:        1%{?dist}
 Summary:        Go development tools
 Group:          Development/Languages
 License:        BSD
